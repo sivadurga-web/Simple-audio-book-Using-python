@@ -13,4 +13,7 @@ pip install PyPDF2
 pip install gtts
 
 Place the code and pdf file in same folder. 
-Now change the 
+Now change the file_name with the pdf file name you want to listen.
+And choose the page_no you want to listen.
+
+RUN the main.py file
